@@ -11,6 +11,7 @@ Sentiment analysis for btc tweets
 - datetime
 - os
 - re
+
 (You can install each one of them using pip install module_name in the command line)
 
 3. Fill in the access token information in a json file. You can see the format in credentials_example.json.
