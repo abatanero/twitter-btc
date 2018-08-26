@@ -5,12 +5,12 @@ Sentiment analysis for btc tweets
 1. First of all you will need a Twitter API access token in order to download tweets. You can get this by creating a Twitter app at https://developer.twitter.com/en/apply.
 2. You will need python 3.6 installed and the following libraries:
 - tweepy
-- json
+- json (pre-installed)
 - pandas
 - numpy
 - datetime
-- os
-- re
+- os (pre-installed)
+- re (pre-installed)
 
 (You can install each one of them using pip install module_name in the command line)
 
