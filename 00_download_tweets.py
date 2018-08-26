@@ -17,8 +17,6 @@ outputFolder = "downloadedTweets/"
 # Search terms
 listqueries = ["btc"]
 
-#now = datetime.datetime.now().date()
-#days = [str(now - datetime.timedelta(days=i)) for i in range(7)]
 
 for searchQuery in listqueries:
     print(searchQuery)
